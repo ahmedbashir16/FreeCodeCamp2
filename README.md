@@ -32,8 +32,8 @@
 ## I have learned and practiced some lessons of responsive web design course from Freecodecamp(www.freecodecamp.org)
 
 ### Topics that i have done:
-### 1) Css box model by building a rathko painting (https://github.com/ahmedbashir16/FreeCodeCamp1/tree/main/BoxModel)
-### 2) Css flexbox by building a photo gallery (https://github.com/ahmedbashir16/FreeCodeCamp1/tree/main/flexBox)
-### 3) Typography by building a nutrition label (https://github.com/ahmedbashir16/FreeCodeCamp1/tree/main/Typography)
-### 4) Accessibility by building a quiz (https://github.com/ahmedbashir16/FreeCodeCamp1/tree/main/Accessibilty)
-### 5) Tribute page (https://github.com/ahmedbashir16/FreeCodeCamp1/tree/main/TributePage)
+### 1) Css box model by building a rathko painting (https://github.com/ahmedbashir16/FreeCodeCamp2/tree/main/BoxModel)
+### 2) Css flexbox by building a photo gallery (https://github.com/ahmedbashir16/FreeCodeCamp2/tree/main/flexBox)
+### 3) Typography by building a nutrition label (https://github.com/ahmedbashir16/FreeCodeCamp2/tree/main/Typography)
+### 4) Accessibility by building a quiz (https://github.com/ahmedbashir16/FreeCodeCamp2/tree/main/Accessibilty)
+### 5) Tribute page (https://github.com/ahmedbashir16/FreeCodeCamp2/tree/main/TributePage)
